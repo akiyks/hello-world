@@ -1,4 +1,4 @@
 # hello-world
-Let's getting started.  
+Let's get started.  
 My first project on GitHub.  
 Another update test.
